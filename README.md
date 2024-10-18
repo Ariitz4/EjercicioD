@@ -1,0 +1,1 @@
+Copia del Ejercicio C esta vez se divide en dos ventanas y al pulstar el boton añadir persona se habre una ventana modal para añadir una persona.
